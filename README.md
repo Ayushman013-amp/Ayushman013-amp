@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Ayushman
 
-<!--
-**Ayushman013-amp/Ayushman013-amp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student at GITA Bhubaneswar
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Learning Python & Java
+
+🌱 Currently learning Web Development
+
+🚀 Interested in AI/ML, Cloud Computing and Open Source
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Supabase
+
+---
+
+## 📚 Current Goals
+
+- Complete Full Stack Web Development
+- Master Python Programming
+- Learn Data Structures & Algorithms
+- Build Real-World Projects
+- Contribute to Open Source
+
+---
+
+## 🚀 Projects
+
+- Portfolio Website
+- Resume Builder Website
+- To-Do List App
+- Music Streaming App
+- Rural Connect (Hackathon Project)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your profile link
+- GitHub: https://github.com/Ayushman013-amp
+
+---
+
+⭐ Always learning and building.
