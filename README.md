@@ -51,8 +51,10 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your profile link
+- LinkedIn: https://www.linkedin.com/in/ayushman-pati/
 - GitHub: https://github.com/Ayushman013-amp
+- HackerRANK: https://www.hackerrank.com/profile/ayushmanpati5
+- LeetCODE: https://leetcode.com/u/AYUSH00312/
 
 ---
 
