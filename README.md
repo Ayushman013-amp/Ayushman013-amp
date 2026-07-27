@@ -1,37 +1,136 @@
-# Hi, I'm Ayushman_Pati 👋
-> 👨‍💻 About Me
-- 🎓 Engineering student with a strong interest in <software_development>, <web_technologies>, and <problem_solving>
-- 🌐 Currently focused on <Web_Development>, building responsive and interactive projects using <HTML>, <CSS>, and <JavaScript>
-- 💻 Practicing <Data Structures & Algorithms> to strengthen logical thinking, coding ability, and problem-solving skills
-- 🤖 Also interested in <Artificial_Intelligence> and exploring how intelligent systems can be combined with practical software solutions
-- 🚀 Enjoy building <real-world_projects> that improve both development skills and technical understanding
-- 📚 Continuously learning through <hands-on_practice>, <project-based_learning>, and consistent self-improvement
-- 🛠️ Focused on building a solid foundation in <development>, <problem_solving>, and <emerging_technologies>
-- 🎯 Aspiring to grow into a <Full-Stack_Developer> while exploring opportunities in <AI-driven_applications> and modern software development
+<h1 align="center">Hi 👋, I'm Ayushman Pati</h1>
+<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | AI Engineer in Progress</h3>
 
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushman-pati/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ayushmanpati5/_profile/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ayushman-Pati-8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31397104/ayushman-pati?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PatiAyushm73587) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmanpati5@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayushman013-amp&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ayushman013-amp&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushman013-amp&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayushman013-amp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayushman013-amp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+Engineer+in+Progress;Java+%7C+Python+%7C+JavaScript;Building+Projects+Every+Day;Always+Learning+New+Technologies" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayushman013-amp&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Full Stack Web Development, Artificial Intelligence and Open Source.
+
+🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- Python for AI
+- Cloud Computing
+
+🎯 Career Goal
+
+> Become a Software Engineer specialising in Full Stack Development, Artificial Intelligence and Cloud Technologies.
+
+📚 I Believe In
+
+- 📖 Learn
+- 🛠️ Build
+- 🚀 Share
+- 💡 Improve Every Day
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ayushman013-amp&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushman013-amp&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman013-amp&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ayushman013-amp&theme=tokyo-night)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ayushman013-amp&theme=tokyonight&column=4)
+
+---
+
+# 🌟 Featured Projects
+
+🚀 Student Management Tracking System (SMTS)
+
+🌐 Personal Portfolio Website
+
+🤖 AI Projects using Python
+
+💼 Full Stack Web Applications
+
+📚 Java DSA Repository
+
+---
+
+# 🎯 My 2026 Goals
+
+- ✅ Build 20+ Real-World Projects
+- ✅ Master Java & DSA
+- ✅ Learn Cloud Computing
+- ✅ Contribute to Open Source
+- ✅ Crack a Software Development Internship
+- ✅ Become a Full Stack + AI Engineer
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: **ayushmanpati5@gmail.com**
+
+💼 LinkedIn: **YOUR_LINKEDIN**
+
+💻 GitHub: **https://github.com/Ayushman013-amp**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayushman013-amp&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
