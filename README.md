@@ -1,4 +1,3 @@
-## Header
 Hi, I'm **Ayushman013-amp**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
