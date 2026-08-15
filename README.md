@@ -6,15 +6,16 @@ Hi, I'm **Ayushman013-amp**. This README is tuned for **personal brand** with a 
   </picture>
 </p>
 # Hi, I'm Ayushman_Pati 👋
-> 👨‍💻 About Me
-- 🎓 Engineering student with a strong interest in <software_development>, <web_technologies>, and <problem_solving>
-- 🌐 Currently focused on <Web_Development>, building responsive and interactive projects using <HTML>, <CSS>, and <JavaScript>
-- 💻 Practicing <Data Structures & Algorithms> to strengthen logical thinking, coding ability, and problem-solving skills
-- 🤖 Also interested in <Artificial_Intelligence> and exploring how intelligent systems can be combined with practical software solutions
-- 🚀 Enjoy building <real-world_projects> that improve both development skills and technical understanding
-- 📚 Continuously learning through <hands-on_practice>, <project-based_learning>, and consistent self-improvement
-- 🛠️ Focused on building a solid foundation in <development>, <problem_solving>, and <emerging_technologies>
-- 🎯 Aspiring to grow into a <Full-Stack_Developer> while exploring opportunities in <AI-driven_applications> and modern software development
+
+# 👨‍💻 About Me
+> 🎓 Engineering student with a strong interest in <software_development>, <web_technologies>, and <problem_solving>
+> 🌐 Currently focused on <Web_Development>, building responsive and interactive projects using <HTML>, <CSS>, and <JavaScript>
+> 💻 Practicing <Data Structures & Algorithms> to strengthen logical thinking, coding ability, and problem-solving skills
+> 🤖 Also interested in <Artificial_Intelligence> and exploring how intelligent systems can be combined with practical software solutions
+> 🚀 Enjoy building <real-world_projects> that improve both development skills and technical understanding
+> 📚 Continuously learning through <hands-on_practice>, <project-based_learning>, and consistent self-improvement
+> 🛠️ Focused on building a solid foundation in <development>, <problem_solving>, and <emerging_technologies>
+> 🎯 Aspiring to grow into a <Full-Stack_Developer> while exploring opportunities in <AI-driven_applications> and modern software development
 
 
 
