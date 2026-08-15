@@ -1,3 +1,11 @@
+## Header
+Hi, I'm **Ayushman013-amp**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp hero section" />
+  </picture>
+</p>
 # Hi, I'm Ayushman_Pati 👋
 > 👨‍💻 About Me
 - 🎓 Engineering student with a strong interest in <software_development>, <web_technologies>, and <problem_solving>
@@ -60,13 +68,6 @@ Contact and social links will appear here.
     <img src="https://www.gitskins.com/api/section/social?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp social section" />
   </picture>
 </p>
-## Header
-Hi, I'm **Ayushman013-amp**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp hero section" />
-  </picture>
-</p>
+
 
 <!-- Sections: About Me, Skills, GitHub Stats, Projects, Heatmap, Connect, Header -->
