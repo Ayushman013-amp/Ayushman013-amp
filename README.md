@@ -29,7 +29,6 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=neon&mode=light" />
