@@ -41,7 +41,6 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=github-dark&mode=light" />
@@ -57,9 +56,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Heatmap
-Animated year-long contribution calendar.
 ## Connect
-> Editing this section in the inspector.
 Contact and social links will appear here.
 <p align="center">
   <picture>
