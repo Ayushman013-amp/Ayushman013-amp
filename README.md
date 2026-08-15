@@ -5,7 +5,6 @@ Hi, I'm **Ayushman013-amp**.
     <img src="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp hero section" />
   </picture>
 </p>
-# Hi, I'm Ayushman_Pati 👋
 
 # 👨‍💻 About Me
 > 🎓 Engineering student with a strong interest in <software_development>, <web_technologies>, and <problem_solving>
