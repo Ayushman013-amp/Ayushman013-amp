@@ -1,5 +1,4 @@
 # Ayushman013-amp
-## Header
 Hi, I'm **Ayushman013-amp**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
   <picture>
