@@ -1,5 +1,5 @@
 # Ayushman013-amp
-Hi, I'm **Ayushman013-amp**. This README is tuned for **open source** with a Neon visual system.
+Hi, I'm **Ayushman013-amp**. 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=neon&mode=light" />
