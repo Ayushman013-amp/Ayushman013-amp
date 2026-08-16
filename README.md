@@ -1,9 +1,4 @@
 # Ayushman013-amp
-
-> Maintainer credibility and contributor clarity.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
 Hi, I'm **Ayushman013-amp**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
