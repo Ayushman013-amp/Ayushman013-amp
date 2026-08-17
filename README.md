@@ -45,13 +45,3 @@ Contact and social links will appear here.
     <img src="https://www.gitskins.com/api/section/social?username=Ayushman013-amp&theme=neon" alt="Ayushman013-amp social section" />
   </picture>
 </p>
-
-
-```text
-🚀 SYSTEM       : ONLINE
-🛸 SHIP         : ACTIVE
-💻 CODING       : ACTIVE
-🧠 LEARNING     : ACTIVE
-🔥 CONTRIBUTING : ACTIVE
-👾 BUGS         : DETECTED
-💥 MISSION     : DESTROY BUGS
