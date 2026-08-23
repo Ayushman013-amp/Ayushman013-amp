@@ -1,6 +1,6 @@
 # Ayushman013-amp
 
-> Products, launches, and builder momentum.
+> Memorable developer positioning.
 
 ## Header
 
@@ -28,6 +28,14 @@ Hi, I'm **Ayushman013-amp**. This README shares what I'm building, the tools I u
     <img src="https://www.gitskins.com/api/section/stack?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp stack section" />
   </picture>
 </p>
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp stats section" />
+  </picture>
+</p>
 ## Projects
 
 <p align="center">
@@ -38,14 +46,6 @@ Hi, I'm **Ayushman013-amp**. This README shares what I'm building, the tools I u
 </p>
 ## Heatmap
 
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp stats section" />
-  </picture>
-</p>
 ## Connect
 
 <p align="center">
