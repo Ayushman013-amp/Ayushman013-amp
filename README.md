@@ -1,7 +1,5 @@
 # Ayushman013-amp
 
-> Memorable developer positioning.
-
 ## Header
 
 Hi, I'm **Ayushman013-amp**. This README shares what I'm building, the tools I use, and the work I'm proud of.
