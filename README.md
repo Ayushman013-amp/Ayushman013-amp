@@ -3,6 +3,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Full-Stack Developer | CSE Student
 -------------------------------------------
+Hi, I'm *Ayushman013-amp*. This README shares what I'm building, the tools I use, and the work I'm proud of.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp hero section" />
+  </picture>
+</p>
+## About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Ayushman013-amp&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Ayushman013-amp&theme=github-dark" alt="Ayushman013-amp about section" />
+  </picture>
+</p>
 
 👨‍💻 CSE Student | Aspiring Full-Stack Developer
 
